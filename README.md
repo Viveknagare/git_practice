@@ -1,2 +1,5 @@
 # git_practice
-this is my git tutorial
+this is my git tutorial.
+<br>
+below are the all git commands
+
